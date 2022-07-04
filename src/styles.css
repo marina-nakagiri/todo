@@ -53,9 +53,8 @@ button:hover {
   color: #666;
 }
 .list-row {
-  display: flex;
-  align-items: center;
   margin-bottom: 4px;
+  display: flex;
 }
 
 .list-row > p {
